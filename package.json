@@ -1,0 +1,23 @@
+{
+  "name": "playwright-automation-framework",
+  "version": "1.0.0",
+  "description": "This repository contains a robust and scalable Playwright automation framework built with TypeScript. It demonstrates industry-standard test automation practices, including the Page Object Model (POM), reusable utilities, API testing, reporting, test data management, and CI/CD readiness.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avipsamishra/playwright-automation-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/avipsamishra/playwright-automation-framework/issues"
+  },
+  "homepage": "https://github.com/avipsamishra/playwright-automation-framework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.1.0"
+  }
+}
